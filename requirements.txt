@@ -1,0 +1,5 @@
+pandas
+soccerdata
+matplotlib.pyplot
+seaborn
+scikit-learn
